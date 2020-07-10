@@ -1,0 +1,16 @@
+{
+  "name": "breakkeyboard",
+  "version": "1.0.0",
+  "description": "Test how fast you can spam buttons on your keyboard.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "biggant2",
+  "license": "ISC"
+}
